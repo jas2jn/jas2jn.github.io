@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Projects Completed Through University of Virginia
 
-[Project 1 Title](/sample_page)
+[Deep Learning Architecture for Text Binary Classification](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Convolutional Neural Network for Image Recognition](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Gradient Boosted Tree Model for Predicting Net Loss](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
