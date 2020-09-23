@@ -9,7 +9,7 @@
 
 ---
 [Convolutional Neural Network for Image Recognition](https://github.com/jas2jn/CNN-for-Image-Recognition/)
-<img src="https://github.com/jas2jn/CNN-for-Image-Recognition/blob/master/CNNImage.jpg?raw=true"/>
+<img src="images/CNNImage.jpg?raw=true"/>
 
 ---
 [Gradient Boosted Tree Model for Predicting Net Loss](http://example.com/)
