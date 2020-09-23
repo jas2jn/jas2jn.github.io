@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Convolutional Neural Network for Image Recognition](/pdf/sample_presentation.pdf)
+[Convolutional Neural Network for Image Recognition](https://github.com/jas2jn/CNN-for-Image-Recognition/)
 <img src="https://github.com/jas2jn/CNN-for-Image-Recognition/blob/master/CNNModelImage.png"/>
 
 ---
