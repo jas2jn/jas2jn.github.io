@@ -5,7 +5,7 @@
 ### Projects Completed Through The University of Virginia
 
 [Deep Learning Architecture for Text Binary Classification](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/DeepLearningArchitectureImage.jpg?raw=true"/>
 
 ---
 [Convolutional Neural Network for Image Recognition](https://github.com/jas2jn/CNN-for-Image-Recognition/)
