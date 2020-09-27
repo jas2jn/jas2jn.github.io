@@ -12,7 +12,7 @@
 <img src="images/CNNImage.jpg?raw=true"/>
 
 ---
-[Gradient Boosted Tree Model for Predicting Net Loss](http://example.com/)
+[Gradient Boosted Tree Model for Predicting Net Loss](https://github.com/jas2jn/GradientBoostingNetLoss)
 <img src="images/GradientBoosting.jpg?raw=true"/>
 
 ---
