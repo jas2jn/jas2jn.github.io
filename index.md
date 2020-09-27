@@ -4,7 +4,7 @@
 
 ### Projects Completed Through The University of Virginia
 
-[Deep Learning Architecture for Text Binary Classification](https://github.com/jas2jn/DeepLearningTextClassification/)
+[Deep Learning Architecture for Text Classification](https://github.com/jas2jn/DeepLearningTextClassification/)
 <img src="images/DeepLearningArchitectureImage.jpg?raw=true"/>
 
 ---
