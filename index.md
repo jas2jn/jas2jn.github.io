@@ -13,7 +13,7 @@
 
 ---
 [Gradient Boosted Tree Model for Predicting Net Loss](http://example.com/)
-<img src="images/GradientBoostingImage.jpg?raw=true"/>
+<img src="images/GradientBoosting.jpg?raw=true"/>
 
 ---
 [R Shiny Dashboard with Multiple Analyses](http://example.com/)
