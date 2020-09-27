@@ -3,7 +3,7 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I analyze customer data to solve business problems and address leadership's needs. Skilled in predictive modeling, data wrangling, data visualization, public speaking and leading cross-functional working groups. M.S. in Business Analytics at the University of Virginia. 
   <br><br>
-  Second description 
+  <a href="https://public.tableau.com/profile/adrian.sanchez.lemoine#!/">View my Public Tableau Profile</a>
   <br><br>
   <a href="https://www.linkedin.com/in/adrian-sanchez-lemoine/">View My LinkedIn Profile</a> 
   
