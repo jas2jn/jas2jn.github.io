@@ -21,7 +21,7 @@
 
 ---
 
-### Helper Functions, Individual Visualizations, Model Evaluation Techniques
+### Additional Notebooks, SQL Work, and Data Manipulation Techniques
 
 - [Visualizations using ](http://example.com/)
 - [Project 2 Title](http://example.com/)
