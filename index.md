@@ -12,19 +12,19 @@
 <img src="images/CNNImage.jpg?raw=true"/>
 
 ---
-[Gradient Boosted Tree Model for Predicting Net Loss](https://github.com/jas2jn/GradientBoostingNetLoss)
+[Gradient Boosted Tree Model for Predicting Net Loss](https://github.com/jas2jn/GradientBoostingNetLoss/)
 <img src="images/GradientBoosting.jpg?raw=true"/>
 
 ---
-[R Shiny Dashboard with Multiple Analyses](http://example.com/)
+[R Shiny Dashboard with Multiple Analyses](https://github.com/jas2jn/RShinyDashboard/)
 <img src="images/RShiny.jpg?raw=true"/>
 
 ---
 
 ### Additional Notebooks, SQL Work, and Data Manipulation Techniques
 
-- [Visualizations using ](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [SQL Example Work](https://github.com/jas2jn/SQL/)
+- [RFM Analysis](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
