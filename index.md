@@ -17,7 +17,7 @@
 
 ---
 [R Shiny Dashboard with Multiple Analyses](https://github.com/jas2jn/RShinyDashboard/)
-
+<img src="images/RShinyDashboard.jpg?raw=true"/>
 
 ---
 
