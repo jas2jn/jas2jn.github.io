@@ -11,7 +11,7 @@
 ---
 [Convolutional Neural Network for Image Recognition](https://github.com/jas2jn/CNN-for-Image-Recognition/)
 <img src="images/CNNImage.jpg?raw=true"/>
-- This Convolutional Neural Network Architecture was loosely based off of the VGG16 architecture [(More information on VGG16 here)] (https://towardsdatascience.com/architecture-comparison-of-alexnet-vggnet-resnet-inception-densenet-beb8b116866d/).
+- This Convolutional Neural Network Architecture was loosely based off of the VGG16 architecture [(More information on VGG16 here)](https://towardsdatascience.com/architecture-comparison-of-alexnet-vggnet-resnet-inception-densenet-beb8b116866d/).
 - This model was used to predict whether an X-ray showed signs of pneumonia. 
 - This model accurately predicted 99.92% of cases with pneumonia.
 ---
@@ -26,7 +26,7 @@
 - This dashboard was created in R Shiny for a client as part of the graduate capstone requirement for my M.S. in Business Analytics
 - The code found here was used to display and reformat publicly available data in the dashboard
 - Any code referencing the client's private data has been removed. This code only serves as an example of my abilities in R Shiny.
-- Thank you to Jess Roberts, Tracey Zhang, and Chip Kelly for working on this capstone with me.
+- Thank you to Jess Roberts, Tracey Zhai, and Chip Kelly for working on this capstone with me.
 ---
 
 ### Additional Notebooks, SQL Work, and Data Manipulation Techniques
