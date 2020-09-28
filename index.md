@@ -11,9 +11,8 @@
 ---
 [Convolutional Neural Network for Image Recognition](https://github.com/jas2jn/CNN-for-Image-Recognition/)
 <img src="images/CNNImage.jpg?raw=true"/>
+- This model was used to predict whether an X-ray showed signs of pneumonia. The model accurately predicted 99.92% of cases with pneumonia.
 - This Convolutional Neural Network Architecture was loosely based off of the VGG16 architecture [(More information on VGG16 here)](https://towardsdatascience.com/architecture-comparison-of-alexnet-vggnet-resnet-inception-densenet-beb8b116866d/).
-- This model was used to predict whether an X-ray showed signs of pneumonia. 
-- This model accurately predicted 99.92% of cases with pneumonia.
 ---
 [Gradient Boosted Tree Model for Predicting Net Loss](https://github.com/jas2jn/GradientBoostingNetLoss/)
 <img src="images/GradientBoosting.jpg?raw=true"/>
