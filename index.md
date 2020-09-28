@@ -35,7 +35,7 @@
 ### Additional Notebooks, SQL Work, and Data Manipulation Techniques
 
 - [SQL Example Work](https://github.com/jas2jn/SQL/)
-- [RFM Analysis](http://example.com/)
+- [RFM Analysis](https://github.com/jas2jn/RFMAnalysis/blob/master/RFM%20analysis.ipynb)
 
 
 ---
