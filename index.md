@@ -20,14 +20,14 @@
 <img src="images/GradientBoosting.jpg?raw=true"/>
 - A comparison between the performance of a Gradient Boosted Tree model to that of a LASSO regression model and a decision tree model.
 - The Gradient Boosted Tree Model outperformed both models resulting in a lower root mean square error (RMSE) for predicting net loss in mortgages.
-- The model was applied to Fannie Mae's Single-Family Loan Performance Data
+- The model was applied to Fannie Mae's Single-Family Loan Performance Data.
 
 ---
 [R Shiny Dashboard with Multiple Analyses](https://github.com/jas2jn/RShinyDashboard/)
 <img src="images/RShinyDashboard.jpg?raw=true"/>
-- This dashboard was created in R Shiny for a client as part of the graduate capstone requirement for my M.S. in Business Analytics
-- The code found here was used to display and reformat publicly available data in the dashboard
-- Any code referencing the client's private data has been removed. This code only serves as an example of my abilities in R Shiny.
+- This dashboard was created in R Shiny for a client as part of the graduate capstone requirement for my M.S. in Business Analytics.
+- The code found here was used to display and reformat publicly available data in the dashboard.
+- Any code or visuals referencing the client's private data have been removed. This code only serves as an example of my abilities in R Shiny.
 - Thank you to Jess Roberts, Tracey Zhai, and Chip Kelly for working on this capstone with me.
 
 ---
