@@ -28,7 +28,7 @@
 - This dashboard was created in R Shiny for a client as part of the graduate capstone requirement for my M.S. in Business Analytics.
 - The code found here was used to display and reformat publicly available data in the dashboard.
 - Any code or visuals referencing the client's private data have been removed. This code only serves as an example of my abilities in R Shiny.
-- Thank you to Jess Roberts, Tracey Zhai, and Chip Kelly for working on this capstone with me.
+- Thank you to Jess Roberts, Rebecca Stewart, Tracey Zhai, and Chip Kelly for working on this capstone with me.
 
 ---
 
